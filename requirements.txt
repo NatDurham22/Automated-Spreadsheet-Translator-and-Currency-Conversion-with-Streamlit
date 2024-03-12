@@ -1,0 +1,4 @@
+pandas
+deep-translator
+streamlit
+currencyconverter
